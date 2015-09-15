@@ -1,6 +1,6 @@
 # CIS Security Benchmark Kickstart for Red Hat Enterprise Linux 6
 ----
-This is a small update and change set created against @major (*-- Major Hayden*)'s securekickstarts for CCentOS 6.  These changes have been tested on RHEL6 on KVM, VMware, and Physical Systems. I I will add all my  changes to the RHEL6 Branch.
+This is a small update and change set created against @major (*Major Hayden*)'s securekickstarts for CentOS 6.  These changes have been tested on RHEL6 on KVM, VMware, and Physical Systems.  I will add all my  changes to the RHEL6 Branch.
 
 *-- Simon Omega*
 
