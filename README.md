@@ -1,3 +1,9 @@
+# CIS Security Benchmark Kickstart for Red Hat Enterprise Linux 6
+----
+This is a small update and change set created against @major (*-- Major Hayden*)'s securekickstarts for CCentOS 6.  These changes have been tested on RHEL6 on KVM, VMware, and Physical Systems. I I will add all my  changes to the RHEL6 Branch.
+
+*-- Simon Omega*
+
 # CIS Security Benchmark Kickstarts
 ----
 The kickstart files in this repository will give you a system which meets almost all of the scored standards from the [CIS Security Benchmarks](http://benchmarks.cisecurity.org/).  The non-scored checks are excluded and I've also excluded adjustments that don't make sense for most environments (see comments in the kickstart for details).
